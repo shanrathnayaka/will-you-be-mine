@@ -1,0 +1,1 @@
+import React from 'react';\n\nconst Gallery: React.FC = () => {\n    return (\n        <div className="gallery">\n            <h2>Memory Gallery</h2>\n            <p>Welcome to the Memory Gallery! Here you can view all your cherished memories.</p>\n        </div>\n    );\n};\n\nexport default Gallery;
